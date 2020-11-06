@@ -1,5 +1,5 @@
 class Libpostal < Formula
-  desc "C library for parsing/normalizing street addresses around the world using statistical NLP and open geo data"
+  desc "C library for parsing/normalizing street addresses around the world"
   homepage "https://github.com/openvenues/libpostal"
   url "https://github.com/openvenues/libpostal/archive/v1.1-alpha.tar.gz"
   sha256 "c8a88eed70d8c09f68e1e69bcad35cb397e6ef11b3314e18a87b314c0a5b4e3a"
